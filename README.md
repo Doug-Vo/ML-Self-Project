@@ -2,7 +2,12 @@
 
 This repository is a collection of machine learning projects and experiments. The goal is to explore various datasets from different online sources and build predictive models.
 
-## Project Structure
+
+## Spring 2026 (new)
+
+Current working space
+
+## Summer 2025 (old)
 
 The repository is organized into two primary directories, based on the development environment and platform where the work was conducted:
 
@@ -11,12 +16,4 @@ The repository is organized into two primary directories, based on the developme
 -   `Google_Colab/`: This directory contains all notebooks developed using Google Colab. These projects often utilize datasets from various sources (e.g., UCI Machine Learning Repository, data.world, etc.) and utilize the cloud-based GPU resources provided by Colab.
 
 
-## Technologies Used
 
-The models and analyses in this repository are primarily built using the Python ecosystem. Common libraries include:
-
-* **Data Analysis & Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Machine Learning:** Scikit-learn
-* **Deep Learning:** TensorFlow, Keras, PyTorch
-* **Environment:** Jupyter Notebook, Google Colab
