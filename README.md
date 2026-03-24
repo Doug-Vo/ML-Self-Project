@@ -11,16 +11,20 @@
 | **Weather Predictor** | ML, Prediction | XGBoost, Scikit-Learn, LGBM | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
 
 
-
-
 ## 📂 Project Gallery
 *A collection of my latest work in data analysis and machine learning.*
 
 | No | Project Name | Category | Domain | Status | Notebook |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Customer Cluster Analysis** | EDA | Marketing | ![Done](https://img.shields.io/badge/Done-success) | [View](./EDA/customer-cluster-analysis.ipynb) |
-| 02 | **Phone Usage Analysis** | Classification | Behavioral | ![Done](https://img.shields.io/badge/Done-success)  | [View](./Machine%20Learning/phone_usage.ipynb) |
-| 03 | ... |*Coming Soon* |
+| 01 | **Customer Cluster Analysis** | EDA | Marketing | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./EDA/customer-cluster-analysis.ipynb) |
+| 02 | **Adidas Global Sales** | EDA | Retail | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./EDA/adidas.ipynb) |
+| 03 | **Phone Usage Analysis** | Classification | Behavioral | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./Machine%20Learning/phone_usage.ipynb) |
+| 04 | **Sleep Health Study** | Regression, Classification, Cluster | Health | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./Machine%20Learning/sleep.ipynb) |
+| 05 | **Titanic Survival** | Classification | Social Science | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./Machine%20Learning/titatnic.ipynb) |
+| 06 | **UCI Wine Quality** | Classification | Food Science | ![Done](https://img.shields.io/badge/Status-Completed-success) | [View](./Machine%20Learning/uci_wine.ipynb) |
+| 07 | **Comming soon..** |  |  | ![Planned](https://img.shields.io/badge/Status-Planned-blue) | |
+
+
 
 
 
