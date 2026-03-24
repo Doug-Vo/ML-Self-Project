@@ -1,19 +1,26 @@
-# Machine Learning Projects
+# 🚀 Data Science & AI Project 
 
-This repository is a collection of machine learning projects and experiments. The goal is to explore various datasets from different online sources and build predictive models.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-thien-duc-vo/)
 
 
-## Spring 2026 (new)
+##  End-to-End Project
 
-Current working space
+| Project Name | Domain | Tech Stack | Source & Demo | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **RAG AI Workbench** | Generative AI | OpenAI, Vector DB, Docker, Azure | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
+| **Weather Predictor** | Regression | Scikit-Learn, Flask, Azure | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
 
-## Summer 2025 (old)
 
-The repository is organized into two primary directories, based on the development environment and platform where the work was conducted:
 
--   `Kaggle/`: This directory contains all projects, notebooks, and scripts that were developed using datasets from Kaggle. Each sub-folder within `/Kaggle` corresponds to a specific Kaggle dataset or competition.
 
--   `Google_Colab/`: This directory contains all notebooks developed using Google Colab. These projects often utilize datasets from various sources (e.g., UCI Machine Learning Repository, data.world, etc.) and utilize the cloud-based GPU resources provided by Colab.
+## 📂 Project Gallery
+*A collection of my latest work in data analysis and machine learning.*
+
+| No | Project Name | Category | Domain | Status | Notebook |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | **Customer Cluster Analysis** | EDA | Marketing | ![Done](https://img.shields.io/badge/Done-success) | [View](./EDA/customer-cluster-analysis.ipynb) |
+| 02 | **Phone Usage Analysis** | Classification | Behavioral | ![Done](https://img.shields.io/badge/Done-success)  | [View](./Machine%20Learning/phone_usage.ipynb) |
+| 03 | ... |*Coming Soon* |
 
 
 
