@@ -7,8 +7,8 @@
 
 | Project Name | Domain | Tech Stack | Source & Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **RAG AI Workbench** | Generative AI | OpenAI, Vector DB, Docker, Azure | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
-| **Weather Predictor** | Regression | Scikit-Learn, Flask, Azure | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
+| **RAG AI Workbench** | Generative AI | OpenAI, Vector DB, RAG Chain | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
+| **Weather Predictor** | ML, Prediction | XGBoost, Scikit-Learn, LGBM | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) | ![Done](https://img.shields.io/badge/-Completed-success) |
 
 
 
