@@ -1,6 +1,16 @@
-# 🚀 Data Science & AI Project 
+# 🚀 Machine Learning & AI Projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-thien-duc-vo/)
+
+
+
+This repository is a structured compilation of my projects in **Data Analytics** and **Machine Learning**. 
+
+The projects are organized into two main tracks:
+* **Exploratory Data Analysis (EDA) & Modeling:** A collection of Jupyter notebooks focused on data cleaning, statistical analysis, and model benchmarking (Classification, Regression, and Clustering) using libraries like **Scikit-Learn**, **XGBoost**, **Pandas**, etc.
+* **End-to-End Solutions:** Production-ready applications. These include **Generative AI (RAG)** and **Predictive Modeling** systems, containerized with **Docker** and deployed live on **Microsoft Azure**.
+
+
 
 
 ##  End-to-End Project
