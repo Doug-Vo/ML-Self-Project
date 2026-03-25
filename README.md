@@ -7,8 +7,15 @@
 This repository is a structured compilation of my projects in **Data Analytics** and **Machine Learning**. 
 
 The projects are organized into two main tracks:
-* **Exploratory Data Analysis (EDA) & Modeling:** A collection of Jupyter notebooks focused on data cleaning, statistical analysis, and model benchmarking (Classification, Regression, and Clustering) using libraries like **Scikit-Learn**, **XGBoost**, **Pandas**, etc.
-* **End-to-End Solutions:** Production-ready applications. These include **Generative AI (RAG)** and **Predictive Modeling** systems, containerized with **Docker** and deployed live on **Microsoft Azure**.
+* **End-to-End Solutions:** 
+  * Production-ready applications. These include 
+    * **Generative AI (RAG)** 
+    * **Predictive Modeling** 
+  * Containerized with **Docker** and deployed live on **Microsoft Azure**.
+  
+
+* **Exploratory Data Analysis (EDA) & Modeling:** 
+  * A collection of Jupyter notebooks focused on data cleaning, statistical analysis, and machine learning(Classification, Regression, Clustering, etc.)
 
 
 
@@ -32,9 +39,5 @@ The projects are organized into two main tracks:
 | 04 | **Sleep Health Study** | Regression, Classification, Cluster | Health | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/sleep.ipynb) |
 | 05 | **Titanic Survival** | Classification | Social Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/titanic.ipynb) |
 | 06 | **UCI Wine Quality** | Classification | Food Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/uci_wine.ipynb) |
-| 07 | **Coming soon...** | — | — | ![Planned](https://img.shields.io/badge/Planning-blue) | — |
-
-
-
-
-
+| 07 | **UCI Car Evaluation** | Classification, Encoding | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/car.ipynb) |
+| — | **Coming soon...** | — | — | ![Planned](https://img.shields.io/badge/Planning-blue) | — |
