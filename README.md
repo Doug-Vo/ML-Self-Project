@@ -30,14 +30,17 @@ The projects are organized into two main tracks:
 
 ## 📂 Project Gallery
 *A collection of my latest work in data analysis and machine learning.*
-
 | No | Project Name | Category | Domain | Status | Notebook |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | **Customer Cluster Analysis** | EDA | Marketing | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/customer-cluster-analysis.ipynb) |
 | 02 | **Adidas Global Sales** | EDA | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/adidas.ipynb) |
-| 03 | **Phone Usage Analysis** | Classification | Behavioral | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/phone_usage.ipynb) |
-| 04 | **Sleep Health Study** | Regression, Classification, Cluster | Health | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/sleep.ipynb) |
-| 05 | **Titanic Survival** | Classification | Social Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/titanic.ipynb) |
-| 06 | **UCI Wine Quality** | Classification | Food Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/uci_wine.ipynb) |
-| 07 | **UCI Car Evaluation** | Classification, Encoding | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/car.ipynb) |
+| 03 | **Beauty Supply Chain** | EDA | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/Beauty_Supply_chain.ipynb) |
+| 04 | **Spotify Music Analysis** | EDA | Entertainment | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/Spotify.ipynb) |
+| 05 | **Phone Usage Analysis** | Classification | Behavioral | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/phone_usage.ipynb) |
+| 06 | **Sleep Health Study** | Regression, Classification, Cluster | Health | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/sleep.ipynb) |
+| 07 | **Titanic Survival** | Classification | Social Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/titanic.ipynb) |
+| 08 | **UCI Wine Quality** | Classification | Food Science | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/uci_wine.ipynb) |
+| 09 | **UCI Car Evaluation** | Classification, Encoding | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/car.ipynb) |
+| 10 | **FMCC Sales Prediction** | Regression | Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/FMCC_Sales_Prediction.ipynb) |
+| 11 | **Iris Classification** | Classification | Biology | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/iris.ipynb) |
 | — | **Coming soon...** | — | — | ![Planned](https://img.shields.io/badge/Planning-blue) | — |
