@@ -13,6 +13,8 @@
 
 This repository is a structured compilation of my projects in **Data Analytics** and **Machine Learning**. 
 
+> **Learning Setup:** I use [Claude Code](https://claude.ai/code) as a personal tutor throughout this project. Claude guides my understanding through questions, hints, and exercises — it does not write code for me. All implementations are my own.
+
 The projects are organized into two main tracks:
 * **End-to-End Solutions:** 
   * Production-ready applications. These include 
@@ -31,12 +33,12 @@ The projects are organized into two main tracks:
 
 | No | Project name | Tech Stack | Domain | Status | Source & Demo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | **RAG AI Workbench** | OpenAI, Vector DB, RAG Chain | Generative AI | ![Done](https://img.shields.io/badge/-Completed-success) | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
+| 01 | **RAG AI Workbench** | OpenAI, Vector DB, RAG Chain | Generative AI, LLM | ![Done](https://img.shields.io/badge/-Completed-success) | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
 | 02 | **Weather Predictor** | XGBoost, Scikit-Learn, LGBM | ML, Prediction | ![Done](https://img.shields.io/badge/-Completed-success) | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) |
 
 
 ## 📂 Project Gallery
-*A collection of my latest work in data analysis and machine learning.*
+  *A collection of my latest work in data analysis and machine learning.*
 
 | No | Project Name | Category | Domain | Status | Notebook |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -53,6 +55,6 @@ The projects are organized into two main tracks:
 | 11 | **Iris Classification** | ![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white) | Biology | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/iris.ipynb) |
 | 12 | **Transformer Practice** | ![Transformer](https://img.shields.io/badge/Transformer-993556?style=flat&logoColor=white) | NLP | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/Transformers.ipynb) |
 | 13 | **AI v Human Text** | ![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-185FA5?style=flat&logoColor=white) | NLP | ![Ongoing](https://img.shields.io/badge/Ongoing-yellow) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/ai_human_text.ipynb) |
-| 14 | **UK Traffic Accident** | ![EDA](https://img.shields.io/badge/EDA-1D9E75?style=flat&logoColor=white)![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white) | Traffic | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/uk_accident.ipynb) |
-| 15 | **Churned Customer Behavior** | ![EDA](https://img.shields.io/badge/EDA-1D9E75?style=flat&logoColor=white)![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white) ![Cluster](https://img.shields.io/badge/Cluster-BA7517?style=flat&logoColor=white)| Retail | ![Ongoing](https://img.shields.io/badge/Ongoing-yellow) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/e_commerce.ipynb) |
+| 14 | **UK Traffic Accident** | ![EDA](https://img.shields.io/badge/EDA-1D9E75?style=flat&logoColor=white)![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white)![Cluster](https://img.shields.io/badge/Cluster-BA7517?style=flat&logoColor=white) | Traffic | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./EDA/uk_accident.ipynb) |
+| 15 | **Churned Customer Behavior** | ![EDA](https://img.shields.io/badge/EDA-1D9E75?style=flat&logoColor=white)![Classification](https://img.shields.io/badge/Classification-534AB7?style=flat&logoColor=white) ![Cluster](https://img.shields.io/badge/Cluster-BA7517?style=flat&logoColor=white)| Retail | ![Done](https://img.shields.io/badge/-Completed-success) | [![Notebook](https://img.shields.io/badge/Notebook-black?logo=github)](./Machine%20Learning/e_commerce.ipynb) |
 | — | **Coming soon...** | — | — | ![Planned](https://img.shields.io/badge/Planning-blue) | — |
