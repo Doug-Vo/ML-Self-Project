@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python _add_analysis.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -)"
+    ]
+  }
+}
